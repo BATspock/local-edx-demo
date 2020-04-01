@@ -1,0 +1,7 @@
+<problem display_name="Text Input" markdown="&gt;&gt;Read the number and write it in words, 697.  &lt;&lt;&#10;&#10;&#10;= six hundred and ninety seven&#10;or= six hundred ninety seven&#10;">
+<stringresponse answer="six hundred and ninety seven" type="ci">
+  <label>Read the number and write it in words, 697.  </label>
+<additional_answer answer="six hundred ninety seven"/>
+  <textline size="20"/>
+</stringresponse>
+</problem>

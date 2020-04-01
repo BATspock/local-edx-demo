@@ -1,0 +1,7 @@
+<problem display_name="Text Input" markdown="&gt;&gt;Read the numbers and write it in words, 809.   &lt;&lt;&#10;&#10;&#10;= eight hundred and nine&#10;or= eight hundred nine&#10;">
+<stringresponse type="ci" answer="eight hundred and nine">
+  <label>Read the numbers and write it in words, 809.   </label>
+<additional_answer answer="eight hundred nine"/>
+  <textline size="20"/>
+</stringresponse>
+</problem>

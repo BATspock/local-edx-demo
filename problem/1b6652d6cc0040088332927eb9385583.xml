@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt; The expanded form of 2069 is:  &lt;&lt;&#10;&#10;( ) 2 times 1000+0 times 10+6 times 100+9 times 1&#10;( ) 2 times 100+0 times 10+6 times 1000+9 times 1&#10;(x) 2 times 1000+0 times 100+6 times 10+9 times 1">
+<multiplechoiceresponse>
+  <label> The expanded form of 2069 is:  </label>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">2 times 1000+0 times 10+6 times 100+9 times 1</choice>
+    <choice correct="false">2 times 100+0 times 10+6 times 1000+9 times 1</choice>
+    <choice correct="true">2 times 1000+0 times 100+6 times 10+9 times 1</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

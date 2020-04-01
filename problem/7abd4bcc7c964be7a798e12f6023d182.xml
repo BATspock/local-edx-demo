@@ -1,0 +1,6 @@
+<problem display_name="Numerical Input" markdown="&gt;&gt;Write the preceding number of  4999 . &lt;&lt;&#10;&#10;= 4998">
+<numericalresponse answer="4998">
+  <label>Write the preceding number of  4999 . </label>
+<formulaequationinput/>
+</numericalresponse>
+</problem>

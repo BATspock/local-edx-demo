@@ -1,0 +1,6 @@
+<problem display_name="Numerical Input" markdown="&gt;&gt; Write the succeeding number of 7605.&lt;&lt;&#10;&#10;= 7606&#10;">
+<numericalresponse answer="7606">
+  <label> Write the succeeding number of 7605.</label>
+<formulaequationinput/>
+</numericalresponse>
+</problem>

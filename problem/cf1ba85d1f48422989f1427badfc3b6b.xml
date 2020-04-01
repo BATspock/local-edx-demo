@@ -1,0 +1,7 @@
+<problem display_name="Text Input" markdown="&gt;&gt;Read the number and write it in words, 6400. &lt;&lt;&#10;&#10;= six thousand four hundred &#10;or= six thousand and four hundred&#10;">
+<stringresponse type="ci" answer="six thousand four hundred ">
+  <label>Read the number and write it in words, 6400. </label>
+<additional_answer answer="six thousand and four hundred"/>
+  <textline size="20"/>
+</stringresponse>
+</problem>

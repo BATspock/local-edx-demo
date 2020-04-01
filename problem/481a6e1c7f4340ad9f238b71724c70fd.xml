@@ -1,0 +1,7 @@
+<problem display_name="Text Input" markdown="&gt;&gt;Read the number and write it in words, 3524. &lt;&lt;&#10;&#10;= three thousand and twenty four&#10;or= three thousand twenty four&#10;">
+<stringresponse answer="three thousand and twenty four" type="ci">
+  <label>Read the number and write it in words, 3524. </label>
+<additional_answer answer="three thousand twenty four"/>
+  <textline size="20"/>
+</stringresponse>
+</problem>

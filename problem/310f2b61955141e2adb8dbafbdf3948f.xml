@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt; The expanded form of 5004 is:  &lt;&lt;&#10;&#10;&#10;( ) 5 times 1000+0 times 10+4 times 100+0 times 1 &#10;( ) 5 times 1000+4 times 100+0 times 10+0 times 1 &#10;(x) 5 times 1000+0 times 100+0 times 10+4 times 1 &#10;">
+<multiplechoiceresponse>
+  <label> The expanded form of 5004 is:  </label>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">5 times 1000+0 times 10+4 times 100+0 times 1</choice>
+    <choice correct="false">5 times 1000+4 times 100+0 times 10+0 times 1</choice>
+    <choice correct="true">5 times 1000+0 times 100+0 times 10+4 times 1</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

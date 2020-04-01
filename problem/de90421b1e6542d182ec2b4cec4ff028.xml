@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;The expanded form of 9678 is:  &lt;&lt;&#10;&#10;&#10;( ) 9 times 1000+6 times 10+7 times 100+8 times 1&#10;(x) 9 times 1000+6 times 100+7 times 10+8 times 1&#10;( ) 9 times 100+6 times 1000+7 times 10+8 times 1&#10;">
+<multiplechoiceresponse>
+  <label>The expanded form of 9678 is:  </label>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">9 times 1000+6 times 10+7 times 100+8 times 1</choice>
+    <choice correct="true">9 times 1000+6 times 100+7 times 10+8 times 1</choice>
+    <choice correct="false">9 times 100+6 times 1000+7 times 10+8 times 1</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

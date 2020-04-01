@@ -1,0 +1,7 @@
+<problem display_name="Text Input" markdown="&gt;&gt;Read the number and write it in words, 8740. &lt;&lt;&#10;&#10;&#10;= eight thousand seven hundred and forty&#10;or= eight thousand seven hundred forty&#10;">
+<stringresponse answer="eight thousand seven hundred and forty" type="ci">
+  <label>Read the number and write it in words, 8740. </label>
+<additional_answer answer="eight thousand seven hundred forty"/>
+  <textline size="20"/>
+</stringresponse>
+</problem>

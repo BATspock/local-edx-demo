@@ -1,0 +1,6 @@
+<problem display_name="Numerical Input" markdown="&gt;&gt; Write the following in numbers, 5201. &lt;&lt;&#10;&#10;= 5202&#10;">
+<numericalresponse answer="5202">
+  <label> Write the following in numbers, 5201. </label>
+<formulaequationinput/>
+</numericalresponse>
+</problem>

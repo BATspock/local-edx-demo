@@ -1,0 +1,10 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt; The expanded form of 6487 is:  &lt;&lt;&#10;&#10;( ) 6 times 100+4 times 1000+8 times 10+7 times 1&#10;(x) 6 times 1000+4 times 100+8 times 10+7 times 1&#10;( ) 6 times 100+4 times 10+8 times 1000+7 times 1&#10;">
+<multiplechoiceresponse>
+  <label> The expanded form of 6487 is:  </label>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">6 times 100+4 times 1000+8 times 10+7 times 1</choice>
+    <choice correct="true">6 times 1000+4 times 100+8 times 10+7 times 1</choice>
+    <choice correct="false">6 times 100+4 times 10+8 times 1000+7 times 1</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

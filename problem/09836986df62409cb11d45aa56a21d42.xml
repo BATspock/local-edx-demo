@@ -1,0 +1,10 @@
+<problem display_name="Dropdown" markdown="&gt;&gt;Write these expanded numbers in the general form, 1 × 1000 + 3 × 100 + 6 × 10 + 5 × 1 . &lt;&lt;&#10;[[&#10;(1365)&#10;1305&#10;1065&#10;]]&#10;">
+<optionresponse>
+  <label>Write these expanded numbers in the general form, 1 × 1000 + 3 × 100 + 6 × 10 + 5 × 1 . </label>
+<optioninput>
+    <option correct="True">1365</option>
+    <option correct="False">1305</option>
+    <option correct="False">1065</option>
+  </optioninput>
+</optionresponse>
+</problem>

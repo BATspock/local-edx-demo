@@ -1,0 +1,7 @@
+<problem display_name="Text Input" markdown="&gt;&gt;Read the numbers and write it words, 7005. &lt;&lt;&#10;&#10;&#10;&#10;= seven thousand and five&#10;or= seven thousand five&#10;">
+<stringresponse type="ci" answer="seven thousand and five">
+  <label>Read the numbers and write it words, 7005. </label>
+<additional_answer answer="seven thousand five"/>
+  <textline size="20"/>
+</stringresponse>
+</problem>

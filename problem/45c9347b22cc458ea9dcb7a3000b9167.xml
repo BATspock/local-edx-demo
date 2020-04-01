@@ -1,0 +1,11 @@
+<problem display_name="Dropdown" markdown="&gt;&gt;Write these expanded numbers in the general form,&#10; 8 × 1000 + 2 × 10 + 3 × 1 .&lt;&lt;&#10;[[&#10;8203&#10;(8023)&#10;823&#10;]]&#10;">
+<optionresponse>
+  <label>Write these expanded numbers in the general form,
+ 8 × 1000 + 2 × 10 + 3 × 1 .</label>
+<optioninput>
+    <option correct="False">8203</option>
+    <option correct="True">8023</option>
+    <option correct="False">823</option>
+  </optioninput>
+</optionresponse>
+</problem>

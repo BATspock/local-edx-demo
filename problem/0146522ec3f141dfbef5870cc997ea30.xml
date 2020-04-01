@@ -1,0 +1,7 @@
+<problem display_name="Text Input" markdown="&gt;&gt;Read the numbers and write it in words, 5298. &lt;&lt;&#10;&#10;= five thousand two hundred and ninety eight&#10;or= five thousand two hundred ninety eight">
+<stringresponse type="ci" answer="five thousand two hundred and ninety eight">
+  <label>Read the numbers and write it in words, 5298. </label>
+<additional_answer answer="five thousand two hundred ninety eight"/>
+  <textline size="20"/>
+</stringresponse>
+</problem>

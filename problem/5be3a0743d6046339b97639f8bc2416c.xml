@@ -1,0 +1,6 @@
+<problem display_name="Numerical Input" markdown="&gt;&gt;What number comes between 5888 and 5890 . &lt;&lt;&#10;&#10;= 5889&#10;">
+<numericalresponse answer="5889">
+  <label>What number comes between 5888 and 5890 . </label>
+<formulaequationinput/>
+</numericalresponse>
+</problem>

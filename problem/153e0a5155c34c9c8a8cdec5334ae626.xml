@@ -1,0 +1,7 @@
+<problem display_name="Text Input" markdown="&gt;&gt;Read the number and write it in words, 3570.&lt;&lt;&#10;&#10;= 3 thousand five hundred and seventy&#10;or= 3 thousand five hundred seventy&#10;">
+<numericalresponse answer="3thousandfivehundredandseventy">
+  <label>Read the number and write it in words, 3570.</label>
+<additional_answer answer="3 thousand five hundred seventy"/>
+  <formulaequationinput/>
+</numericalresponse>
+</problem>

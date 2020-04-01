@@ -1,0 +1,6 @@
+<problem display_name="Numerical Input" markdown="&gt;&gt;What number comes between 3999 and 4001. &lt;&lt;&#10;&#10;= 4000&#10;">
+<numericalresponse answer="4000">
+  <label>What number comes between 3999 and 4001. </label>
+<formulaequationinput/>
+</numericalresponse>
+</problem>

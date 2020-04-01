@@ -1,0 +1,7 @@
+<problem display_name="Text Input" markdown="&gt;&gt;Read the number and write it in words, 4967. &lt;&lt;&#10;&#10;= four thouand nine hundred and sixty seven&#10;or= four thouand nine hundred sixty seven">
+<stringresponse answer="four thouand nine hundred and sixty seven" type="ci">
+  <label>Read the number and write it in words, 4967. </label>
+<additional_answer answer="four thouand nine hundred sixty seven"/>
+  <textline size="20"/>
+</stringresponse>
+</problem>
